@@ -1,0 +1,3 @@
+device,time_s,throughput_gcells_s,avg_gpu_power_w,peak_gpu_power_w,avg_cpu_power_w,peak_cpu_power_w,total_power_w,perf_per_watt_gcells_s_w
+CPU,16.0980,0.3127,14.0896,17.4890,-1.0000,-1.0000,14.0896,0.0222
+GPU,0.5019,10.0282,17.3700,25.4770,-1.0000,-1.0000,17.3700,0.5773
